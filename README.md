@@ -1,10 +1,10 @@
 # password-generator
 import random
 
-caps_alph ="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-small_alph ="abcdefghijklmnopqrstuvwxyz"
-special_char = "!@#$%^&*_?\/"
-number = "0987654321"
+caps_alphabet ="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+small_alphabet ="abcdefghijklmnopqrstuvwxyz"
+special_character = "!@#$%^&*_?\/"
+num = "0987654321"
 
 password = caps_alph+small_alph+special_char+number
 
